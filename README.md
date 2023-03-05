@@ -9,4 +9,4 @@ The implemention of multiple algorithms in machine learning or deep learing
 
 #2022/11/22 Language model using GRU/customLSTM/Transformer (for wikitext-2; with Pytorch)
 
-#2023/3/05 Using ESM2 bert to build a model for regression of protein solubility
+#2023/03/05 Using ESM2 bert to build a model for regression of protein solubility
